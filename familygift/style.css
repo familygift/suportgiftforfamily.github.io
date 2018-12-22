@@ -1,0 +1,60 @@
+.logotext{
+    font-family: American Captain ;
+    text-decoration: none;
+    color:black;
+    font-size:100px;
+    margin-left: 690px;
+}
+
+.glblock{
+    margin-top: 50px;
+    background-color: black;
+    font-size: 25px;
+    margin-left: 400px;
+    width: 1050px;
+    height:700px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.textfg {
+    margin-left: 100px;
+    color:white;
+}
+.ap{
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 70px;
+    
+}
+
+.ny{
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+}
+
+.oplata{
+    margin-left: 150px;
+    color:black;
+    background-color: white;
+    border:5px solid white;
+    text-decoration: none;
+    margin-bottom: 500px;
+}
+
+.ggsel{
+    color:white;
+    margin-left: 300px;
+}
+
+.freff{
+    color:gray;
+    
+    
+    margin-left: 50px;
+    
+}
